@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>ODBC</Extension>
+    <ConnectString>Dsn=liga</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Especifique un nombre de usuario y una contraseña para el origen de datos DataSource1</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>533fc650-2bec-44b2-8dc2-9d47dff7dd2a</DataSourceID>
+</RptDataSource>
